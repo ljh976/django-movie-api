@@ -21,5 +21,5 @@ cf. You can see a specific item by adding /# (#: index) at the end of url.
 ![](movie_list_2.png)  
 6. The movie is deleted from dataset (GET).
 
-![](meanwhile.png)  
+![](meanwhile.PNG)  
 7. Meanwhile at server side. It shows the log.
